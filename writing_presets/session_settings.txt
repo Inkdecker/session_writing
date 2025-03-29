@@ -1,5 +1,5 @@
 {
-    "selected_sentence_row": 2,
+    "selected_sentence_row": 16,
     "selected_session_row": 0,
     "randomize_settings": true,
     "auto_start_settings": false,
@@ -21,8 +21,10 @@
             "next_sentence": "Right",
             "open_folder": "O",
             "copy_plain_text": "C",
+            "copy_plain_text_metadata": "Ctrl+Shift+C",
             "copy_highlighted_text": "Ctrl+C",
-            "toggle_autocopy": "Shift+C",
+            "copy_highlighted_text_metadata": "Shift+C",
+            "toggle_autocopy": "F3",
             "toggle_metadata": "F2",
             "delete_sentence": "Ctrl+D",
             "zoom_in": "Q",
